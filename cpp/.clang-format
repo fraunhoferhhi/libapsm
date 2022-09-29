@@ -1,0 +1,10 @@
+# APSM CPP coding style
+
+---
+BasedOnStyle: WebKit
+AlignAfterOpenBracket: Align
+BreakBeforeBraces: Allman
+SpacesInParentheses: 'true'
+SpacesInSquareBrackets: 'true'
+
+...

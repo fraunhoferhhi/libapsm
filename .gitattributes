@@ -1,0 +1,10 @@
+# Binary files (no line-ending conversions), diff using hexdump
+*.bin	binary	diff=hex
+
+# Sources
+*.c     text diff=c
+*.cpp   text diff=cpp
+*.cu    text diff=cpp
+*.h     text diff=c
+*.hpp   text diff=cpp
+*.cuh   text diff=cpp

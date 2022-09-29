@@ -1,0 +1,10 @@
+# Argument parser
+[submodule "cpp/external/argparse"]
+    path = cpp/external/argparse
+    url = https://github.com/p-ranav/argparse.git
+    branch = master
+
+# JSON
+[submodule "cpp/external/json"]
+    path = cpp/external/json
+    url = https://github.com/nlohmann/json.git
